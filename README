@@ -14,6 +14,8 @@ Setup Instructions:
 	- Add the Gwen project to game_scratch solution
 	- Add the mod folder to your client.dll project
 	- Add the following lines in vgui_int.cpp
+		+ add the following include:
+			#include "BaseGUI.h"
 		+ at the end of void VGui_CreateGlobalPanels():
 			g_pGUIManager = new CGUILoader();
 			g_pGUIManager->InitPanels();
