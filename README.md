@@ -1,4 +1,7 @@
-This is a fork of GWEN that comes with a VGUI Renderer.
+GWEN VGUI
+
+This is a fork of [GWEN](http://www.facepunch.com/threads/888841) that comes with a [VGUI](https://developer.valvesoftware.com/wiki/VGUI_Documentation) Renderer. 
+There is also come code to integration [GWEN](http://www.facepunch.com/threads/888841) with [Valve's GUI framework](https://developer.valvesoftware.com/wiki/VGUI_Documentation).
 
 It is encouraged to use the mainline of GWEN and implement this renderer yourself, 
 but if you wish to get up and running as soon as possible, then simply doing this project
